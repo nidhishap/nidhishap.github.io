@@ -1,2 +1,0 @@
-# nidhishap.github.io
-portfolio

@@ -1,0 +1,25 @@
+@import "../../../common.module.scss";
+
+.Navbar {
+  position: fixed;
+  :global(.brand-logo) {
+    font-weight: lighter;
+    font-size: 1.414rem;
+  }
+  .sidenav {
+    background-color: $white;
+    a {
+      text-align: center;
+      font-size: medium;
+    }
+  }
+  z-index: 1000;
+}
+
+:global(.sidenav-overlay) {
+  position: fixed;
+}
+
+:global(.solid-nav) {
+  background-color: $black;
+}

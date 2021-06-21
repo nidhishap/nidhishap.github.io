@@ -1,0 +1,25 @@
+@import "../../../common.module.scss";
+
+.Footer {
+  background-color: $dark-blue;
+  color: $red;
+  h5 {
+    font-weight: lighter;
+  }
+  .aboutMe {
+    a {
+      color: $red;
+    }
+  }
+  .connect {
+    color: $red;
+    ul {
+      a {
+        color: $red;
+      }
+    }
+  }
+  .copyright {
+    background-color: $black;
+  }
+}

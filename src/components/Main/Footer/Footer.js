@@ -41,7 +41,7 @@ class Footer extends Component {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    Codeforces
+                    Geeks for geeks
                   </a>
                 </li>
                 <li>

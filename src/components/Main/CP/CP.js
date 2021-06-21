@@ -43,7 +43,7 @@ class CP extends Component {
           <br />
           <div className="row">
             <div className={styles.cpHeader + " col s12"}>
-              <h2>Competitive Programming</h2>
+              <h2>Programming</h2>
             </div>
           </div>
           <div className="row">

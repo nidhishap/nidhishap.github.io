@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.176c70e2.chunk.css",
+    "main.js": "/static/js/main.790f1e17.chunk.js",
+    "main.js.map": "/static/js/main.790f1e17.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f37f0e70.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f37f0e70.js.map",
+    "static/js/2.88219d88.chunk.js": "/static/js/2.88219d88.chunk.js",
+    "static/js/2.88219d88.chunk.js.map": "/static/js/2.88219d88.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6b58e94f2fa54029f8eacb633d3bb41.js": "/precache-manifest.a6b58e94f2fa54029f8eacb633d3bb41.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.176c70e2.chunk.css.map": "/static/css/main.176c70e2.chunk.css.map",
+    "static/js/2.88219d88.chunk.js.LICENSE.txt": "/static/js/2.88219d88.chunk.js.LICENSE.txt",
+    "static/media/loader.module.scss": "/static/media/header.dbc19145.jpg",
+    "static/media/kaksha.jpeg": "/static/media/kaksha.2a587a10.jpeg",
+    "static/media/header.module.scss": "/static/media/me.2f18e487.jpeg",
+    "static/media/cp.module.scss": "/static/media/parallax1.63d6ed39.jpg",
+    "static/media/contact.module.scss": "/static/media/parallax2.cec8f460.jpg",
+    "static/media/project1.jpeg": "/static/media/project1.601c6f4c.jpeg",
+    "static/media/project2.jpg": "/static/media/project2.ca301c21.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f37f0e70.js",
+    "static/js/2.88219d88.chunk.js",
+    "static/css/main.176c70e2.chunk.css",
+    "static/js/main.790f1e17.chunk.js"
+  ]
+}
